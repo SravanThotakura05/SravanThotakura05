@@ -11,12 +11,6 @@ At Solace, I architect:
 - **Custom microservices solutions** tailored to unique business workflows and compliance needs
 - **Real-time data pipelines** powering analytics, automation, and decision-making
 
-### Tech Stack
-
-| Backend | Cloud & Infra | Messaging & Events | Integrations |
-|---------|--------------|-------------------|--------------|
-| Java, Spring Boot | AWS, GCP, Containers | Solace Platform, Kafka | OAuth, REST/gRPC |
-
 ### Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/sravanthotakura](https://linkedin.com/in/sravanthotakura)
