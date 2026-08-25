@@ -17,6 +17,6 @@ At Solace, I architect:
 |---------|--------------|-------------------|--------------|
 | Java, Spring Boot | AWS, GCP, Containers | Solace Platform, Kafka | OAuth, REST/gRPC |
 
-### 📫 Let's Connect
+### Let's Connect
 
-- 💼 **LinkedIn:** [linkedin.com/in/sravanthotakura](https://linkedin.com/in/sravanthotakura)
+- **LinkedIn:** [linkedin.com/in/sravanthotakura](https://linkedin.com/in/sravanthotakura)
