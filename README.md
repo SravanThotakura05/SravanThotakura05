@@ -11,7 +11,7 @@ At Solace, I architect:
 - **Custom microservices solutions** tailored to unique business workflows and compliance needs
 - **Real-time data pipelines** powering analytics, automation, and decision-making
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 | Backend | Cloud & Infra | Messaging & Events | Integrations |
 |---------|--------------|-------------------|--------------|
