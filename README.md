@@ -1,15 +1,22 @@
 ## Hi, I'm Sravan Thotakura
 
-**Solution Architect** specializing in **production-grade, event-driven integration solutions** and **custom microservices**.
+**Senior Architect** with 12+ years of experience designing **production-grade, event-driven integration solutions** for global enterprises.
 
-### 🔧 What I Build
-- Event-Driven Architecture patterns
-- Production-grade micro-integrations (legacy, SaaS, cloud-native apps)
-- Custom microservices & backend systems (Java, Spring Boot, Python)
-- Real-time data pipelines (Spark)
+### 🎯 What I Do
 
-### Tech Stack
-Java | Spring Boot | Containers | AWS | GCP | Solace Platform | Kafka | REST/gRPC
+I help organizations integrate legacy, SaaS, on-premise, or cloud-native—to **real-time data flows** using **Event-Driven Architecture**.
 
-### Connect
-- LinkedIn: [linkedin.com/in/sravanthotakura](https://linkedin.com/in/sravanthotakura)
+At Solace, I architect:
+- 🔌 **Production-grade micro-integrations** that enable apps to publish/consume events on event mesh
+- 🏗️ **Custom microservices solutions** tailored to unique business workflows and compliance needs
+- 📡 **Real-time data pipelines** powering analytics, automation, and decision-making
+
+### 🛠️ Tech Stack
+
+| Backend | Cloud & Infra | Messaging & Events | Integrations |
+|---------|--------------|-------------------|--------------|
+| Java, Spring Boot | AWS, GCP, Containers | Solace Platform, Kafka | OAuth, REST/gRPC |
+
+### 📫 Let's Connect
+
+- 💼 **LinkedIn:** [linkedin.com/in/sravanthotakura](https://linkedin.com/in/sravanthotakura)
